@@ -4,4 +4,4 @@ This repository contains data and results from an initial bioassay of an isolate
 
 [Results (Jupyter notebook)](https://github.com/aubreymoore/Dumaguete-OrNV-bioassay-1/blob/master/Dumaguete%20OrNV%20bioassay%201.ipynb)
 
-[Data (Excel workbook)]()
+[Data (Excel workbook)](https://github.com/aubreymoore/Dumaguete-OrNV-bioassay-1/blob/master/aubrey.xlsx)
